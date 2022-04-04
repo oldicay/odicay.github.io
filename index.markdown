@@ -3,7 +3,7 @@ layout: home
 title: "Odicay's Stuff"
 ---
 
-I'm Mike... I like to make things! I've developed iOS apps for fun and professionally for more than a decade and have been building and designing video games since I could hold a pencil. Here are some things I've made for fun:
+I'm Mike. I like to make things! I've developed iOS apps for fun and professionally for more than a decade and have been building and designing video games since I could hold a pencil. Here are some things I've made for fun:
 
 &nbsp;
 ## [Unreleased Tactics Game][tactics-gif]
