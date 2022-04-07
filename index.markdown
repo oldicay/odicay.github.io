@@ -20,10 +20,6 @@ An iOS app that tracks monthly budgets visually, synchronized between two users 
 An iOS game and the first commercial game I shipped. [Some people thought it was alright!][space-bits-review] This is an old one predating SpriteKit. Written in Objective-C using Cocos2D, and sadly no longer available for download.
 
 &nbsp;
-## [Decorator Pattern Tutorial][decorator-tutorial]
-An overview on using the decorator pattern to architect randomly generated game loot. Another really old one in Objective-C. Worth a mention for how fun it was to put together.
-
-&nbsp;
 ## [Game Prototypes][game-prototypes]
 I've worked on a bunch of prototypes and proof of concepts that never made it to release, but were invaluable learning experiences. These are a good mix of Unity/C# and Swift/SpriteKit.
 
