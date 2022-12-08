@@ -3,7 +3,10 @@ layout: default
 title: "Odicay's Stuff"
 ---
 
-I'm Mike. I like to make things! I've developed iOS apps for fun and professionally for more than a decade and have been building and designing video games since I could hold a pencil. Here are some things I've made for fun:
+&nbsp;
+Smart Banner/App Clip Testing
+&nbsp;
+<!-- I'm Mike. I like to make things! I've developed iOS apps for fun and professionally for more than a decade and have been building and designing video games since I could hold a pencil. Here are some things I've made for fun:
 
 &nbsp;
 ## [Unreleased Tactics Game][tactics-gif]
@@ -23,7 +26,7 @@ An iOS game and the first commercial game I shipped. [Some people thought it was
 ## [Game Prototypes][game-prototypes]
 I've worked on a bunch of prototypes and proof of concepts that never made it to release, but were invaluable learning experiences. These are a good mix of Unity/C# and Swift/SpriteKit.
 
-&nbsp;
+&nbsp; -->
 
 [decorator-tutorial]: https://github.com/odicay/RandomlyDecoratedItems
 [tactics-gif]: https://i.imgur.com/zip3aqh.mp4
