@@ -19,8 +19,8 @@ An iOS game and the first commercial game I shipped. [Some people thought it was
  I've worked on a bunch of prototypes and proof of concepts that never made it to release, but were invaluable learning experiences. These are a good mix of Unity/C# and Swift/SpriteKit.
  &nbsp;
 
- [decorator-tutorial]: https://github.com/odicay/RandomlyDecoratedItems
- [tactics-gif]: https://i.imgur.com/zip3aqh.mp4
+[decorator-tutorial]: https://github.com/odicay/RandomlyDecoratedItems
+[tactics-gif]: https://i.imgur.com/zip3aqh.mp4
 [space-bits-trailer]: https://www.youtube.com/watch?v=i0PIoDkulos
 [space-bits-review]: https://web.archive.org/web/20131124124059/https://techraptor.net/2013/09/03/space-bits-review-ios/
 [spent-app]: https://i.imgur.com/pNUd1se.mp4
